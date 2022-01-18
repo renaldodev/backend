@@ -1,0 +1,18 @@
+{
+  "name": "todo-list-graphql",
+  "version": "1.0.0",
+  "description": "A simple api with graphql",
+  "main": "app.ts",
+  "author": "Renaldo Mateus",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.5.4"
+  },
+  "dependencies": {
+    "class-validator": "^0.13.2",
+    "graphql": "^16.2.0",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^1.1.1"
+  }
+}
